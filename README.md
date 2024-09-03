@@ -62,8 +62,15 @@ Train the model for 20 epochs
 
 Validation and Inference
 
+
+
+
 Validation: Use a separate validation set to evaluate the model during training. Calculate the accuracy or Dice score for each organ to assess segmentation quality.
 Inference: For new CT scans, preprocess the data as during training, then forward it through the trained model to obtain segmentation maps.
 
 
 To demonstrate the 3D rendered segments of the predicted organs, run each slice separately 
+https://github.com/user-attachments/assets/1bf562fe-33b2-443d-b02c-e84c634e9601
+
+
+
